@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+disallow: /links
+disallow: /user/fbauth
+disallow: /search/trademark
+disallow: /privacy_policy
+disallow: /search/company
+disallow: /terms_and_conditions
+disallow: /refund_policy
+

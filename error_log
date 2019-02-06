@@ -1,0 +1,2 @@
+[17-Apr-2017 10:15:55 Asia/Kolkata] PHP Fatal error:  Call to undefined method Report_model::getPendingDepositeList() in /home/cearsmdb/public_html/flitpay/application/controllers/admin/Report.php on line 332
+[17-Apr-2017 10:16:55 Asia/Kolkata] PHP Fatal error:  Call to undefined method Common_model::getDepositeTable() in /home/cearsmdb/public_html/flitpay/application/models/Report_model.php on line 226

@@ -1,0 +1,116 @@
+/* Custom css for all custom element*/
+.navbar-primary{
+	box-shadow: 0px 3px 8px -6px rgba(0, 0, 0, 0.43);
+}
+.navbar li, li.dropdown {
+	list-style: none;
+}
+.alert {
+	padding: 6px;
+	font-size: 14px;
+}
+.orange {
+	color: #ff6f00;
+}
+.btn-orange {
+    background: #ff6f00;
+    text-shadow: none;
+    color: #FFF;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+ul.similar-found {
+	margin-left: 35px;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.m-t-0 {
+	margin-top: 0;
+}.m-t-10 {
+	margin-top: 10px;
+}.m-t-20 {
+	margin-top: 20px;
+}.m-t-30 {
+	margin-top: 30px;
+}.m-t-50 {
+	margin-top: 50px;
+}
+.p-t-0 {
+	padding-top: 0;
+}.p-t-10 {
+	padding-top: 10px;
+}.p-t-20 {
+	padding-top: 20px;
+}.p-t-30 {
+	padding-top: 30px;
+}.p-t-50 {
+	padding-top: 50px;
+}
+.btn-xs {
+    padding: 4px 7px;
+    font-size: 8px;
+    font-weight: 600;
+}
+.panel-custom {
+	border: solid 1px #CCC;
+	padding: 10px 15px; 
+	background: #FFF; 
+	margin-bottom: 10px;
+	text-align: center;
+}
+.truncate {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.panel-custom h4 {
+	font-size: 18px;
+	margin-top: 5px;
+}
+
+/*form wizard css*/
+.f1-steps {
+    overflow: hidden;
+    position: relative;
+    margin-top: 20px;
+}.f1-progress {
+    position: absolute;
+    top: 24px;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: #ddd;
+}.f1-progress-line {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 1px;
+    background: #f35b3f;
+}.f1-step {
+    position: relative;
+    float: left;
+    width: 33.333333%;
+}.f1-step-icon {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-top: 4px;
+    padding-left: 12px;
+    background: #ddd;
+    font-size: 16px;
+    color: #fff;
+    line-height: 40px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}.f1-step.active .f1-step-icon {
+    width: 48px;
+    height: 48px;
+    margin-top: 0;
+    padding-left: 14px;
+    background: #f35b3f;
+    font-size: 19px;
+    line-height: 48px;
+}

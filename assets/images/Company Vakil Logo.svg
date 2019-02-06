@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="237px" height="40px" viewBox="0 0 237 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" fill="#FFFFFF">
+            <g id="company-vakil-logo-06" transform="translate(10.000000, 3.000000)">
+                <g id="Group">
+                    <polyline id="Fill-1" points="16.7198442 8.74775248 19.4759551 11.5038633 23.6936399 7.28617854 16.678085 0.270623666 0.391975446 16.5567332 16.7616035 32.9263613 42.3600269 7.3279378 34.1752129 7.3279378 16.7198442 24.7833065 8.61854873 16.682011 16.7198442 8.74775248"></polyline>
+                    <polyline id="Fill-2" points="19.3924366 32.9681205 26.0739174 32.9681205 51.7558594 7.28617854 45.0326193 7.28617854 19.3924366 32.9681205"></polyline>
+                </g>
+                <text id="COMPANY-VAKIL" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" line-spacing="16" letter-spacing="-0.000800000213">
+                    <tspan x="52" y="30">COMPANY VAKIL</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,5 @@
+/*Dynamic Css File*/
+h3{ font-size:20px; }
+a strong{ background: #ff6f00; text-shadow: none; color: #FFF; text-transform: uppercase; font-weight: 400; margin-left: 20px; padding: 5px; border-radius: 5px; }
+.sidebar-detail2 a{ background: #ff6f00; text-shadow: none; color: #FFF; text-transform: uppercase; font-size: 13px; font-weight: 400; padding: 5px; border-radius: 5px; margin-top: 7px; position: absolute; }
+.section4 .page_dnm h2{ color:#0061d3; }
